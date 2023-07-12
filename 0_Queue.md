@@ -9,3 +9,5 @@ https://www.youtube.com/watch?v=kQmZhdGq2rU
 
 - [ ] OpenFermion : [github](https://quantumai.google/openfermion/tutorials/jordan_wigner_and_bravyi_kitaev_transforms)
 Jordan-Wigner code
+
+- 한가지 논문 여러번 읽어서 복기해보기
